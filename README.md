@@ -22,7 +22,7 @@ It can also clean a workspace by moving unwanted files into a mirrored trash dir
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourname/ws-archiver.git
+git clone https://github.com/AranaCorp/ws-archiver
 cd ws-archiver
 pip install -r requirements.txt
 ```
