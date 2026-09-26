@@ -1,0 +1,14 @@
+{
+  "workspace": "../Tools",
+  "ignore_folders": [
+    "temp",
+    "cache",
+    ".git"
+  ],
+  "ignore_extensions": [
+    "log",
+    "tmp",
+    "bak"
+  ],
+  "size_limit": "1GB"
+}
